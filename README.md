@@ -9,6 +9,10 @@ No âmbito das técnicas estatísticas, foram utilizadas distribuições amostra
 O projeto completo pode ser encontrado neste link:
 <a href="https://github.com/hugoferraz5/Probabilidade-Estatistica/blob/main/filmes.ipynb">ProjetoFilmes</a>
 
+Alguns gráficos impossibilitados de serem vistos acima(plotly) estão disponíveis nesse link :
+<a href="https://github.com/hugoferraz5/Probabilidade-Estatistica/tree/main/imagens">Graficos</a>
+
+
 ## **Filmes(2015 a 2019) - Apresentação dos Dados**
 
  Esse dataset mostra a  participação dos filmes nacionais nos cinemas brasileiros e a sua relação com os filmes estrangeiros, bem como o acesso ao cinema pela população.
