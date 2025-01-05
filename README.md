@@ -26,4 +26,4 @@ No âmbito das técnicas estatísticas, foram utilizadas distribuições amostra
 | Renda (R$) no ano de exibição    | Renda                               |                                                |                                                                                                                                             |
 
 O projeto completo pode ser encontrado neste link:
-<a href="https://github.com/hugoferraz5/Probabilidade-Estatistica/blob/main/filmes.ipynb">ProjetoAlura</a>
+<a href="https://github.com/hugoferraz5/Probabilidade-Estatistica/blob/main/filmes.ipynb">ProjetoFilmes</a>
