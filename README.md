@@ -1,5 +1,4 @@
-# Probabilidade-Estat-stica
-Projeto visando mostrar técnicas de probabilidade e estatística sobre um conjunto de dados de filmes exibidos no cinema brasileiro entre 2015 e 2019.
+# Probabilidade-Estatistica
 
 ## **Filmes(2015 a 2019) - Apresentação dos Dados**
 
